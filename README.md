@@ -41,6 +41,36 @@ Create realistic, product-accurate English 4:5 fashion styling posters from refe
 
 > 这些图片用于展示海报结构与视觉方向。实际生成时，用户上传的商品图仍然拥有最高优先级。
 
+## 日系手绘风格库 / Japanese Editorial Style Library
+
+将来只要指定 `Japanese Editorial Illustration`、`日系手绘穿搭解析` 或 `fashion magazine illustration`，Skill 就会参考这一组视觉方向。所有日文默认转换成简洁英文。
+
+<table>
+  <tr>
+    <td width="33%" align="center"><img src="assets/style-references/daily-coordinate-brown.jpg" alt="Daily coordinate brown"><br><strong>Daily Coordinate</strong></td>
+    <td width="33%" align="center"><img src="assets/style-references/street-layered-blue.jpg" alt="Street layered blue"><br><strong>Street Layered</strong></td>
+    <td width="33%" align="center"><img src="assets/style-references/monochrome-skirt.jpg" alt="Monochrome skirt"><br><strong>Monochrome Skirt</strong></td>
+  </tr>
+  <tr>
+    <td width="33%" align="center"><img src="assets/style-references/focus-scarf.jpg" alt="Focus scarf"><br><strong>Focus Accessory</strong></td>
+    <td width="33%" align="center"><img src="assets/style-references/monochrome-knit.jpg" alt="Monochrome knit"><br><strong>Monochrome Editorial</strong></td>
+    <td width="33%" align="center"><img src="assets/style-references/street-mode-green.jpg" alt="Street mode green"><br><strong>Street Mode</strong></td>
+  </tr>
+</table>
+
+> 这些图片只决定画风、版式、批注方式和信息密度。实际服装必须严格按照用户上传的商品权威图，不能复制风格图里的服装或配件。
+
+使用示例：
+
+```text
+@Fashion Coordinate Poster
+Use my uploaded product images as the sole product authority.
+Create an English 4:5 Japanese Editorial Illustration poster.
+Use refined adult fashion line art, soft watercolor or marker shading,
+product cards, styling notes, handwritten arrows and a color palette.
+Strictly preserve the exact garment and trouser construction.
+```
+
 ## 图解工作流程 / Visual workflow
 
 ```mermaid
