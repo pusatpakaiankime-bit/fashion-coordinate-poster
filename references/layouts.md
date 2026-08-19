@@ -18,4 +18,8 @@ Use for casual, street, Korean, or accessory-led looks: model on one side, `ITEM
 
 Use when one garment is the main product: large hero model, oversized focus-item cutout or detail, smaller supporting-item cards, short checklist, and up to six palette colors.
 
+## Japanese Editorial Board
+
+Use for hand-drawn fashion-magazine requests: one dominant illustrated model, item cards around the model, short English handwritten callouts, arrows, a checklist or style memo, accessories, and a labeled palette. Choose a calmer serif-led treatment for elegant or monochrome outfits and a stronger blue, green, or magenta accent for street or seasonal looks.
+
 Keep no more than five visual groups across one horizontal row. Preserve generous whitespace.
