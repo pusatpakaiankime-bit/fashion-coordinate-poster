@@ -22,6 +22,25 @@ Create realistic, product-accurate English 4:5 fashion styling posters from refe
 | 多种版式 | Editorial Detail、Item Check、Mix & Match、Focus Item |
 | 细节检查 | 单独核对裤腰、抽绳、口袋、裤脚、纹理、五金与层次 |
 
+## 成品示例 / Example posters
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/examples/malay-hijab-example.jpg" alt="Malay Hijab fashion coordinate poster"><br>
+      <strong>Malay Hijab — Quiet Sage Layers</strong><br>
+      真人模特、完整遮盖、面料与五金细节展示
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/examples/chinese-korean-example.jpg" alt="Chinese or Korean fashion coordinate poster"><br>
+      <strong>Chinese / Korean — Soft Weekend Layers</strong><br>
+      自然真人质感、单品拆解、细节特写与配色
+    </td>
+  </tr>
+</table>
+
+> 这些图片用于展示海报结构与视觉方向。实际生成时，用户上传的商品图仍然拥有最高优先级。
+
 ## 图解工作流程 / Visual workflow
 
 ```mermaid
