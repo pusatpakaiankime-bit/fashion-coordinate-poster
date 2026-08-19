@@ -15,7 +15,7 @@ Turn an outfit reference into a polished English fashion editorial poster. Treat
 4. Select the requested model mode. If unspecified, infer the best fit from the outfit and target market.
 5. Select a pattern from [references/layouts.md](references/layouts.md).
 6. Draft concise English copy. Never retain Japanese, Chinese, or random reference-image text unless explicitly requested.
-7. Select `Photorealistic` or `Illustrated`. Use `Photorealistic` whenever the user asks for real people, real products, less AI look, or natural e-commerce photography.
+7. Select `Photorealistic` or `Japanese Editorial Illustration`. Use `Photorealistic` whenever the user asks for real people, real products, less AI look, or natural e-commerce photography. Use `Japanese Editorial Illustration` for 日系手绘, fashion magazine illustration, outfit breakdown, or hand-drawn styling infographic requests.
 8. Use the built-in image-generation tool with only the necessary references. Put the product-authority image first and explicitly forbid layout references from redesigning products.
 9. Inspect product fidelity, coverage, English text, anatomy, realism, and layout balance.
 10. Correct material errors with one targeted edit while preserving everything else.
@@ -99,6 +99,19 @@ Use when the user asks for `真人`, `实物`, `去除AI味`, realistic, natural
 ### Illustrated
 
 Use fine ink and soft watercolor or marker shading only when requested or clearly preferred. Keep the same product locks.
+
+### Japanese Editorial Illustration
+
+Use for Japanese fashion-magazine, hand-drawn coordinate, outfit-analysis, or styling-infographic references.
+
+- Use elegant fine ink outlines, restrained watercolor or marker shading, subtle paper grain, and clean editorial whitespace.
+- Use one large full-body illustrated model plus isolated product cards, accessory cards, detail crops, handwritten arrows, notes, and four to six palette swatches.
+- Keep the model mature and fashion-editorial rather than anime, chibi, doll-like, or exaggerated.
+- Convert all visible Japanese, Chinese, or source-image copy to concise English unless the user explicitly requests another language.
+- Treat supplied style images as medium and layout references only. Never copy their garments, accessories, labels, logos, or product construction.
+- Preserve realistic garment gravity, proportions, seams, hardware, and texture even though the output is illustrated.
+
+Read [references/illustration-styles.md](references/illustration-styles.md) when the user provides hand-drawn fashion posters or requests this style.
 
 ## Poster Copy
 
