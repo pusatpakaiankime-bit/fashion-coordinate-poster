@@ -1,0 +1,14 @@
+interface:
+  display_name: Fashion Coordinate Poster
+  short_description: Create realistic, product-accurate styling posters
+  default_prompt: Use $fashion-coordinate-poster to turn my outfit photo into a realistic
+    English styling poster with a Chinese, Korean, or Malay Hijab model.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
